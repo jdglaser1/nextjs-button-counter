@@ -5,9 +5,11 @@ import Counter from '../components/Counter';
 
 //adding the counter in here from the counter.jsx
 export default function Home(){
+
+
   return (
     <div>
-      <h1>Button COunter Project</h1>
+      <h1>Button Counter Project</h1>
       <Counter /> 
     </div>
   )
